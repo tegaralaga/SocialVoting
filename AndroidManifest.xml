@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="me.tegaralaga.socialvoting" android:versionCode="1" android:versionName="Widiasa (Pre-Alpha)" >
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="me.tegaralaga.socialvoting" android:versionCode="1" android:versionName="Widiasa" >
     
     <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="17"/>
     
