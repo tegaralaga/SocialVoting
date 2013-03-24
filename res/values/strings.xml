@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Social Voting</string>
+    <string name="verify_activity">Verify Code</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_preferences">Preferences</string>
+    <string name="menu_compose">Compose</string>
+    <string name="menu_account">Account</string>
+    <string name="menu_sign_out">Sign Out</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_friends">Friends</string>
+    <string name="menu_resend_code">Resend Code</string>
+    <string name="menu_reset_password">Reset Password</string>
+    <string name="menu_email">Send E-Mail</string>
+    <string name="menu_add_device">Authorize Device</string>
+    <string name="menu_about">About</string>
+    <string name="menu_network_connection">Network Connection</string>
+    <string name="tab_name">Tab Name</string>
+    <string name="tab_icon">Tab Icon</string>
+    <string name="icon_large">Large Icon</string>
+    <string name="icon_secondary">Secondary Icon</string>
+    <string name="icon_primary">Primary Icon</string>
+    <string name="copyright">Copyright</string>
+    <string name="about_people">People</string>
+    <string name="about_people_developer">Developer</string>
+    <string name="about_people_business">Business</string>
+    <string name="about_people_designer">Designer</string>
+    <string name="about_people_tegaralaga">Bias Tegaralaga</string>
+    <string name="about_people_widiasa">Ibnu Widiasa</string>
+    <string name="about_people_ricky">Ricky Dwi</string>
+    <string name="device_information">Device Information</string>
+    <string name="label">Label</string>
+    <string name="icon">icon</string>
+    <string name="reset_default">Reset Default</string>
+</resources>

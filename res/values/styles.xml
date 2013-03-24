@@ -1,0 +1,13 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="SocialVoting" parent="Theme.Sherlock.Light">
+	    <item name="actionBarStyle">@style/Widget.Styled.ActionBar</item>
+	    <item name="android:actionBarStyle">@style/Widget.Styled.ActionBar</item>
+	</style>
+	<style name="Widget.Styled.ActionBar" parent="Widget.Sherlock.Light.ActionBar">
+	    <item name="android:displayOptions">showHome|useLogo</item>
+	    <item name="displayOptions">showHome|useLogo</item>
+	</style>
+	<style name="DialogNoTitle" parent="@android:style/Theme.Dialog">
+    	<item name="android:windowNoTitle">true</item>
+	</style>
+</resources>
